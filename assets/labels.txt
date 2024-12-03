@@ -1,0 +1,7 @@
+0 100% Plastic its a Bottle
+1 100% Organic Its An Waste
+2 100% plastics Its A PEN
+3 100% Metal Its A COIN
+4 100% Organics ITS An Apple
+5 100% Plastic
+6 90% plastic- 10% others
